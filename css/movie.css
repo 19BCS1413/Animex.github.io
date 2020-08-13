@@ -1,0 +1,53 @@
+body{
+	background-image: url("2a8faa16ea6b18772d290cc8c86fc65e.jpg");
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	min-height: 100%;
+}
+
+span {
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	font-size: 1.2em;
+	line-height: 0;
+}
+
+#movie a{
+	color: white;
+	text-decoration: underline;
+	text-decoration-color: #00FA9A;
+	font-size: 30px;
+}
+
+#movie1 a{
+	color: white;
+	text-decoration: underline;
+	text-decoration-color: #00FA9A;
+	font-size: 35px;
+}
+
+#movie a:hover , #movie1 a:hover {
+	color: #00FA9A;
+	text-decoration: underline;
+	text-decoration-color: white;
+}
+
+.container{
+	position: relative;
+	text-align: center;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	margin-top: 30px; 
+}
+
+.centered{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+img{
+	border-radius: 5px 5px 5px 5px;
+}

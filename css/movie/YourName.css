@@ -1,0 +1,44 @@
+body{
+	background-image: url("bg/f2wuB.png");
+	background-repeat:no-repeat;
+	background-size: 110% 100%;
+	min-height: 100%;
+}
+
+mark{
+	color: black;
+	background-color: #00FA9A;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+}
+
+#release{
+	color:white;
+	font-size: 27px;
+	background-color: black;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#trailer {
+	margin-top: 100px;
+}
+
+#review{
+	margin-top: 30px;
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: justify;
+}
+
+.container {
+	position: relative;
+	text-align: center;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	margin-top: 30px; 
+}
+
+#download {
+	margin-top: 50px;
+}
